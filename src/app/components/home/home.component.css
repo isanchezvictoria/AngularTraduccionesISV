@@ -1,0 +1,23 @@
+img {
+    width: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+nav li a{
+    font-weight: bold;
+    font-size: 20px;
+    color:white;
+    margin-top: 20px;
+}
+
+#tajamar {
+    width: 150px;
+    margin-top: 20px;
+    fill: #DA4567;
+}
+
+h3{
+    margin-top: 20px;
+}
